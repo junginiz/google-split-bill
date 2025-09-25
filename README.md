@@ -11,6 +11,8 @@ React, TypeScript, Vite, CSS
 - View net balances per member
 
 ## Run the Program
+Unzip the SRC Folder
 npm install
 npm run dev
+
 
